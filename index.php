@@ -8,5 +8,10 @@
 <body>
     <h1>YOHA!!</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio, illum.</p>
+    <ul>
+        <li>com1</li>\
+        <li>com2</li>
+    </ul>
+
 </body>
 </html>
